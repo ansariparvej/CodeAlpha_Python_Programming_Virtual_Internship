@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+wikipedia-api
+pywhatkit
+plyer
+pillow
+pyjokes
+comtypes
+pyaudio
